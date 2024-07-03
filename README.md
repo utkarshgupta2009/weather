@@ -37,6 +37,6 @@ This is a simple weather app built with Flutter that displays current weather in
    Open the lib/utility/constants.dart file and replace the apiKey variable with your API key.
 
    ```bash
-   final String apiKey = 'YOUR_API_KEY';
+   const String apiKey = 'YOUR_API_KEY';
 
 
