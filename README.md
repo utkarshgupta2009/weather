@@ -30,7 +30,7 @@ This is a simple weather app built with Flutter that displays current weather in
    ```bash
    flutter pub get
 
-3. ** Set up your API key**:
+3. **Set up your API key**:
 
    Get your API key from OpenWeatherMap.
 
